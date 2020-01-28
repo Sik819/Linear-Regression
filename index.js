@@ -1,0 +1,1 @@
+const myFirstTensor = tf.scalar(42)
